@@ -404,6 +404,14 @@ footer a:hover {
   }
 }
 
+aside#sidebar > .course {
+  font-size: 1.5em;
+}
+
+aside#sidebar > ul {
+  font-size: 1.3em;
+}
+
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
   .inner {
