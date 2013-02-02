@@ -37,10 +37,6 @@ avsocks 是科学上网软件，将中国不合理的局域网变成真正的因
 </section>
 
 <aside id="sidebar">
-
-# 社区公开课
- 
-* [通信安全&amp;GPG\[Cai\]](https://avlog.avplayer.org/3597082/%E9%80%9A%E4%BF%A1%E5%AE%89%E5%85%A8&amp;amp;GPG.html)
-
- </aside>
+ <iframe width="100%" height="400" class="course"  frameborder="0" scrolling="no" src="/classes.html"></iframe>
+</aside>
         
