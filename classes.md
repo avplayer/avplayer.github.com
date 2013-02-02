@@ -1,6 +1,6 @@
 ---
-layout: classes
-title: 社区公开课\:
+layout: class
+title: 社区公开课
 ---
 
 * [通信安全&amp;GPG\[Cai\]](https://avlog.avplayer.org/3597082/%E9%80%9A%E4%BF%A1%E5%AE%89%E5%85%A8&amp;amp;GPG.html)
