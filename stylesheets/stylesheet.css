@@ -404,8 +404,10 @@ footer a:hover {
   }
 }
 
-aside#sidebar > .course {
+.course {
   font-size: 1.5em;
+  text-decoration:blink;
+  color:#FF0000;
 }
 
 aside#sidebar > ul {
@@ -484,8 +486,13 @@ blockquote {
   font-size: 100%;
 }
 
+.hightlightnode  {
+  text-decoration:blink;
+}
+
+
 .hightlightnode a {
-  color:#FF0000
+  color:#FF0000;  
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
