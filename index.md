@@ -3,8 +3,6 @@ layout: index
 title: 国内领先的开源社区
 ---
 
-<section id="main-content">
-
 欢迎来到 avplayer 社区
 ===
 
@@ -33,10 +31,3 @@ avsocks 是科学上网软件，将中国不合理的局域网变成真正的因
 简单，加入 QQ群 3597082 即可。 没有 QQ ? Linuxer ? 没关系，咱不是用 AVBOT 么！ 进入 \#avplayer @ irc.freenode.net 一样可以参与聊天。
 
 哦？不会 IRC ? 还好有了 AVBOT, 加入 XMPP 聊天室 avplayer@im.linuxapp.org 即可！
-
-</section>
-
-<aside id="sidebar">
- <iframe width="100%" height="400" class="course"  frameborder="0" scrolling="no" src="/classes.html"></iframe>
-</aside>
-        
