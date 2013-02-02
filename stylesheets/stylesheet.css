@@ -490,8 +490,8 @@ blockquote {
   text-decoration:blink;
 }
 
-
 .hightlightnode a {
+  text-decoration:blink;
   color:#FF0000;  
 }
 
