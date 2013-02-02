@@ -37,12 +37,10 @@ avsocks 是科学上网软件，将中国不合理的局域网变成真正的因
 </section>
 
 <aside id="sidebar">
-	<h1 class="course">社区公开课:</h1>
-	<ul>
-		<li><a href="https://avlog.avplayer.org/3597082/%E9%80%9A%E4%BF%A1%E5%AE%89%E5%85%A8&amp;amp;GPG.html">通信安全&amp;GPG[Cai]</a></li>
-		<li><a href="https://avlog.avplayer.org/3597082/%E5%BC%82%E6%AD%A5vs%E5%90%8C%E6%AD%A5%E5%A4%9A%E7%BA%BF%E7%A8%8B.html">异步vs阻塞+多线程[Cai]</a></li>
-		<li><a href="https://avlog.avplayer.org/3597082/basicmp3.html">基本MP3原理[Cai]</a></li>	
-		<li><a href="https://avlog.avplayer.org/3597082/python%e6%98%af%e4%b8%aa%e7%83%82%e8%af%ad%e8%a8%80.html">python是个烂语言[Cai]</a></li>
-	</ul>
-</aside>
+
+# 社区公开课
+ 
+* [通信安全&amp;GPG\[Cai\]](https://avlog.avplayer.org/3597082/%E9%80%9A%E4%BF%A1%E5%AE%89%E5%85%A8&amp;amp;GPG.html)
+
+ </aside>
         
