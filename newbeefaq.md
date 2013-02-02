@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: index
 title: 新人进群须知
+github: https://github.com/avplayer/
 ---
 
 新人进群须知
