@@ -29,7 +29,7 @@ avplayer 是国内技术第一的开源社区。社区由志愿者运作，目�
 
 首先要会 C++。不会也没关系，进来一起学习 AV ,学习的过程中就会 C++了。使用 BOOST 神器加速。多少AV都不怕。来组织的人，都嗑 BOOST 上瘾了，相信你加入后也会被 BOOST 征服的。
 
-## 请先查看 [入群须知](/newbeefaq.html)
+## 请先查看 <span class="hightlightnode" > [入群须知](/newbeefaq.html) </span>
 
 如何加入？
 
