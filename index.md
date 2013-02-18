@@ -22,7 +22,7 @@ avplayer 是国内技术第一的开源社区。社区由志愿者运作，目�
 
 ## 孵化中的项目
 
-* [avhttp](https://github.com/avplayer/avhttp)
+* [avhttp](/avhttp.html)
    avhttp 是一个HTTP下载库，能并发下载。使用 asio 作为异步事件框架。
 
 ## 如何加入？
