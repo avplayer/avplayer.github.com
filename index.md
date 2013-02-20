@@ -9,7 +9,7 @@ github : https://github.com/avplayer
 
 avplayer 是国内技术第一的开源社区。社区由志愿者运作，目前的管理者是 jack/microcai/invxp, webmaster hyq。分别来自四个不同的地外文明，来到中国献身伟大的开源事业。此外还有来自中国的数十w成员在贡献代码。
 
-## 目前 avplayer 社区开发有3个项目
+## 目前 avplayer 社区开发有4个项目
 
 + [avplayer](http://avplayer.avplayer.org)
 >	avplayer 是一个开源的 p2p播放器框架和用这个框架实现的简单播放器。
@@ -17,13 +17,12 @@ avplayer 是国内技术第一的开源社区。社区由志愿者运作，目�
 + [avbot](http://qqbot.avplayer.org)
 >	avbot 原名 qqbot ， 是伟大的 QQ/IRC/XMPP 三协议通吃的互联机器人。将分裂的 QQ/IRC/XMPP 世界融合到了一起。
 >
++ [avhttp](/avhttp.html)
+>	avhttp 是一个HTTP下载库，能并发下载。使用 asio 作为异步事件框架。
+>
+
 + [avsocks](/avsocks.html)
 >	avsocks 是科学上网软件，将中国不合理的局域网变成真正的因特网的软件。
-
-## 孵化中的项目
-
-* [avhttp](/avhttp.html)
-   avhttp 是一个HTTP下载库，能并发下载。使用 asio 作为异步事件框架。
 
 ## 如何加入？
 
