@@ -2,6 +2,7 @@
 layout: class
 title: 每周6的社区公开课记录
 ---
+* [模板多态\[microcai\]](https://avlog.avplayer.org/3597082/%E6%A8%A1%E6%9D%BF%E5%A4%9A%E6%80%81.html)
 * [深入理解C++\[cai\]](https://avlog.avplayer.org/3597082/whyIuseCpp.html)
 * [协程相关\[cai\]](https://avlog.avplayer.org/3597082/%E5%8D%8F%E7%A8%8B.html)
 * [内存管理\[cai\]](https://avlog.avplayer.org/3597082/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E9%9D%A9%E5%91%BD.html)
