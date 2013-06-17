@@ -2,6 +2,7 @@
 layout: class
 title: 每周6的社区公开课记录
 ---
+* [IO多路复用](https://avlog.avplayer.org/3597082/IO%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8.html)
 * [运算符重载](https://avlog.avplayer.org/3597082/c++%E8%BF%90%E7%AE%97%E7%AC%A6%E9%87%8D%E8%BD%BD.html)
 * [avbot内幕](https://avlog.avplayer.org/3597082/avbot%E5%86%85%E5%B9%95.html)
 * [模板多态\[microcai\]](https://avlog.avplayer.org/3597082/%E6%A8%A1%E6%9D%BF%E5%A4%9A%E6%80%81.html)
