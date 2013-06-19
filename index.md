@@ -9,23 +9,26 @@ github : https://github.com/avplayer
 
 avplayer 是国内技术第一的开源社区。社区由志愿者运作，目前的管理者是 jack/microcai/invxp, webmaster hyq。分别来自四个不同的地外文明，来到中国献身伟大的开源事业。此外还有来自中国的数十w成员在贡献代码。
 
-## 目前 avplayer 社区开发有5个项目
+## 目前 avplayer 社区开发有6个项目
 
 + [avplayer](http://avplayer.avplayer.org)
 >	avplayer 是一个开源的 p2p播放器框架和用这个框架实现的简单播放器。
->
+
 + [avbot](http://qqbot.avplayer.org)
 >	avbot 原名 qqbot ， 是伟大的 QQ/IRC/XMPP 三协议通吃的互联机器人。将分裂的 QQ/IRC/XMPP 世界融合到了一起。
->
+
 + [avhttp](/avhttp.html)
 >	avhttp 是一个HTTP下载库，能并发下载。使用 asio 作为异步事件框架。
 >
 
-+ [avproxy]
++ [avproxy](https://github.com/avplayer/avproxy)
 >	avproxy 是一个　helper 类库，用于异步执行DNS解析和TCP连接，以及执行透过代理进行连接。将DNS解析，连接，进行代理握手等一系列复杂的操作，简单到使用　avproxy::async_proxyconnect 一条语句即可完成。而且这个过程是异步执行的。
 
 + [avsocks](/avsocks.html)
 >	avsocks 是科学上网软件，将中国不合理的局域网变成真正的因特网的软件。
+
++ [avmobile](https://github.com/avplayer/avmobile)
+> avmobile(imobiledevice)是基于libimobiledevice跨平台基于苹果各种移动设备的开源库.
 
 ## 如何加入？
 
