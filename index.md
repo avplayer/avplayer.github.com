@@ -9,7 +9,13 @@ github : https://github.com/avplayer
 
 avplayer 是国内技术第一的开源社区。社区由志愿者运作，目前的管理者是 jack/microcai/invxp, webmaster hyq。分别来自四个不同的地外文明，来到中国献身伟大的开源事业。此外还有来自中国的数十w成员在贡献代码。
 
-## 社区博客 [http://planet.avplayer.org](http://planet.avplayer.org)
+# 社区博客汇集 [http://planet.avplayer.org](http://planet.avplayer.org)
+
+社区博客是成员各自博客的汇集.
+
+# 社区维基建设 [http://wiki.avplayer.org](http://wiki.avplayer.org)
+
+目前维基开发编辑权限, 欢迎大家建立页面
 
 ## 目前 avplayer 社区开发有6个项目
 
