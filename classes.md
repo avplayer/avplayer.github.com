@@ -2,6 +2,7 @@
 layout: class
 title: 每周6的社区公开课记录
 ---
+* [异步与线程](https://avlog.avplayer.org/%E7%A5%9E%E8%AF%9D/%E5%BC%82%E6%AD%A5%E5%92%8C%E7%BA%BF%E7%A8%8B.html)
 * [IO多路复用](https://avlog.avplayer.org/3597082/IO%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8.html)
 * [运算符重载](https://avlog.avplayer.org/3597082/c++%E8%BF%90%E7%AE%97%E7%AC%A6%E9%87%8D%E8%BD%BD.html)
 * [avbot内幕](https://avlog.avplayer.org/3597082/avbot%E5%86%85%E5%B9%95.html)
