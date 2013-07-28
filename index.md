@@ -4,20 +4,21 @@ title: 国内领先的开源社区
 github : https://github.com/avplayer
 ---
 
-欢迎来到 avplayer 社区
+欢迎来到 avplayer 开源社区
 ===
 
-avplayer 是国内技术第一的开源社区。社区由志愿者运作，目前的管理者是 jack/microcai/invxp, webmaster hyq。分别来自四个不同的地外文明，来到中国献身伟大的开源事业。此外还有来自中国的数十w成员在贡献代码。
+avplayer 是国内技术第一的开源社区。社区由志愿者运作，目前的管理者是 jack/microcai/invxp/hyq/lovely599。
+分别来自多个不同的地外文明，来到中国献身伟大的开源事业。
 
 # 社区博客汇集 [http://planet.avplayer.org](http://planet.avplayer.org)
 
 社区博客是成员各自博客的汇集.
 
-# 社区维基建设 [http://wiki.avplayer.org](http://wiki.avplayer.org)
+# 社区维基 [http://wiki.avplayer.org](http://wiki.avplayer.org)
 
 目前维基开发编辑权限, 欢迎大家建立页面
 
-# 社区论坛雄起 [http://avboost.com](http://avboost.com)
+# 社区论坛 [http://avboost.com](http://avboost.com)
 
 ## 目前 avplayer 社区开发有6个项目
 
@@ -42,7 +43,11 @@ avplayer 是国内技术第一的开源社区。社区由志愿者运作，目�
 
 ## 如何加入？
 
+
 首先要会 C++。不会也没关系，进来一起学习 AV ,学习的过程中就会 C++了。使用 BOOST 神器加速。多少AV都不怕。来组织的人，都嗑 BOOST 上瘾了，相信你加入后也会被 BOOST 征服的。
+
+对于想要学好 C++的初学者, 这里是前辈的肺腑之言 [写给C++初学者的话](http://avboost.com/t/c/257) 
+
 
 ## 请先查看 <span class="hightlightnode" > [入群须知](/newbeefaq.html) </span>
 
