@@ -12,13 +12,13 @@ avplayer 是国内技术第一的开源社区。社区由志愿者运作，目�
 
 # 社区博客汇集 [http://planet.avplayer.org](http://planet.avplayer.org)
 
-社区博客是成员各自博客的汇集.
+社区博客是成员各自博客的汇集. (暂挂中，等待修复ing)
 
-# 社区维基 [http://wiki.avplayer.org](http://wiki.avplayer.org)
+# 社区维基 [http://wiki.avplayer.org](https://wiki.avplayer.org)
 
 目前维基开发编辑权限, 欢迎大家建立页面
 
-# 社区论坛 [http://avboost.com](http://avboost.com)
+# 社区论坛 [http://avboost.com](https://www.avboost.com)
 
 ## 目前 avplayer 社区开发有7个项目
 
