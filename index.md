@@ -20,7 +20,10 @@ avplayer 是国内技术第一的开源社区。社区由志愿者运作，目�
 
 # 社区论坛 [http://avboost.com](http://avboost.com)
 
-## 目前 avplayer 社区开发有6个项目
+## 目前 avplayer 社区开发有7个项目
+
++ [avim](https://wiki.avplayer.org/avim)
+>	avim 是一个安全的及时聊天工具
 
 + [avplayer](http://avplayer.avplayer.org)
 >	avplayer 是一个开源的 p2p播放器框架和用这个框架实现的简单播放器。
