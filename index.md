@@ -25,10 +25,10 @@ avplayer 是国内技术第一的开源社区。社区由志愿者运作，目�
 + [avim](/avim)
 >	avim 是基于TCP/IP层协议支持分布式部署，运用C++编写的非对称加密的军用级别的安全聊天软件。它包含了avrouter服务端、avim客户端。
 
-+ [avplayer](http://avplayer.avplayer.org)
++ [avplayer](/avplayer)
 >	avplayer 是一个开源的 p2p播放器框架和用这个框架实现的简单播放器。
 
-+ [avbot](http://qqbot.avplayer.org)
++ [avbot](/avbot)
 >	avbot 原名 qqbot ， 是伟大的 QQ/IRC/XMPP 三协议通吃的互联机器人。将分裂的 QQ/IRC/XMPP 世界融合到了一起。
 
 + [avhttp](/avhttp.html)
