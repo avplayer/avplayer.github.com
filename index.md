@@ -22,7 +22,7 @@ avplayer 是国内技术第一的开源社区。社区由志愿者运作，目�
 
 ## 目前 avplayer 社区开发有7个项目
 
-+ [avim](https://wiki.avplayer.org/avim)
++ [avim](/avim)
 >	avim 是一个安全的及时聊天工具
 
 + [avplayer](http://avplayer.avplayer.org)
