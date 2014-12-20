@@ -23,7 +23,7 @@ avplayer 是国内技术第一的开源社区。社区由志愿者运作，目�
 ## 目前 avplayer 社区开发有7个项目
 
 + [avim](/avim)
->	avim 是一个安全的及时聊天工具
+>	avim 是基于TCP/IP层协议支持分布式部署，运用C++编写的非对称加密的军用级别的安全聊天软件。它包含了avrouter服务端、avim客户端。
 
 + [avplayer](http://avplayer.avplayer.org)
 >	avplayer 是一个开源的 p2p播放器框架和用这个框架实现的简单播放器。
@@ -59,6 +59,8 @@ avplayer 是国内技术第一的开源社区。社区由志愿者运作，目�
 简单，加入 QQ群 3597082 即可。 没有 QQ ? Linuxer ? 没关系，咱不是用 AVBOT 么！ 进入 \#avplayer @ irc.freenode.net 一样可以参与聊天。
 
 哦？不会 IRC ? 还好有了 AVBOT, 加入 XMPP 聊天室 avplayer@im.linuxapp.org 即可！
+
+哦连IRC也不会？ 我们还有一套方案: [在线Avplayer在线交流平台](https://avlog.avplayer.org/client.html)，它同样也是和前者所有的消息是相互接起来的。
 
 # 如何申请提交权限
 
