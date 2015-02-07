@@ -20,3 +20,10 @@ title: 每周6的社区公开课记录
 * [基本MP3原理\[Cai\]](https://avlog.avplayer.org/3597082/basicmp3.html)
 * [python是个烂语言\[Cai\]](https://avlog.avplayer.org/3597082/python%e6%98%af%e4%b8%aa%e7%83%82%e8%af%ad%e8%a8%80.html)
 
+---
+layout: class
+title: 社区著作
+---
+
+# [Boost.Asio C++ 网络编程中文版]——东骥飞译(http://mmoaay.gitbooks.io/boost-asio-cpp-network-programming-chinese/content/)
+

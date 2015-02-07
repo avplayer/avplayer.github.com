@@ -60,7 +60,7 @@ avplayer 是国内技术第一的开源社区。社区由志愿者运作，目�
 
 哦？不会 IRC ? 还好有了 AVBOT, 加入 XMPP 聊天室 avplayer@im.linuxapp.org 即可！
 
-哦连IRC也不会？ 我们还有一套方案: [在线Avplayer在线交流平台](https://avlog.avplayer.org/client.html)，它同样也是和前者所有的消息是相互接起来的。
+哦连IRC、XMPP也不会？ 我们还有一套方案: [在线Avplayer在线交流平台](https://avlog.avplayer.org/client.html)，它同样也是和前者所有的消息是相互接起来的。
 
 # 如何申请提交权限
 
