@@ -23,5 +23,5 @@ title: 社区新动态
 
 # 社区著作
 
-* [Boost.Asio C++ 网络编程中文版]——东骥飞译(http://mmoaay.gitbooks.io/boost-asio-cpp-network-programming-chinese/content/)
+* [Boost.Asio C++ 网络编程中文版](http://mmoaay.gitbooks.io/boost-asio-cpp-network-programming-chinese/content/)——东骥飞译
 
