@@ -1,9 +1,9 @@
 ---
 layout: class
-title: 每周6的社区公开课记录
+title: 社区新动态
 ---
 
-# 迁移到 [论坛-社区讲座](http://avboost.com/category/32-category) 了
+# 每周6的社区公开课记录已迁移到 [论坛-社区讲座](http://avboost.com/category/32-category)
 
 * [异步与线程](https://avlog.avplayer.org/%E7%A5%9E%E8%AF%9D/%E5%BC%82%E6%AD%A5%E5%92%8C%E7%BA%BF%E7%A8%8B.html)
 * [IO多路复用](https://avlog.avplayer.org/3597082/IO%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8.html)
@@ -20,10 +20,8 @@ title: 每周6的社区公开课记录
 * [基本MP3原理\[Cai\]](https://avlog.avplayer.org/3597082/basicmp3.html)
 * [python是个烂语言\[Cai\]](https://avlog.avplayer.org/3597082/python%e6%98%af%e4%b8%aa%e7%83%82%e8%af%ad%e8%a8%80.html)
 
----
-layout: class
-title: 社区著作
----
 
-# [Boost.Asio C++ 网络编程中文版]——东骥飞译(http://mmoaay.gitbooks.io/boost-asio-cpp-network-programming-chinese/content/)
+# 社区著作
+
+* [Boost.Asio C++ 网络编程中文版]——东骥飞译(http://mmoaay.gitbooks.io/boost-asio-cpp-network-programming-chinese/content/)
 
