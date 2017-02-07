@@ -14,7 +14,7 @@ avplayer 是国内技术第一的开源社区。社区由志愿者运作，目�
 
 目前维基开发编辑权限, 欢迎大家建立页面
 
-# 社区论坛 [https://www.avboost.com](https://www.avboost.com)
+# 社区论坛 [https://bbs.avplayer.org](https://bbs.avplayer.org)
 
 ## 目前 avplayer 社区开发有7个项目
 
