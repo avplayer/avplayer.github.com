@@ -52,7 +52,7 @@ avplayer 是国内技术第一的开源社区。社区由志愿者运作，目�
 
 如何加入？
 
-简单，加入 QQ群 3597082 即可。 没有 QQ ? Linuxer ? 没关系，咱不是用 AVBOT 么！ 进入 \#avplayer @ irc.freenode.net 一样可以参与聊天。
+简单，加入我们的[telegram群组](https://telegram.me/joinchat/C3WytT4RMvLgPZ92_Txq8g)即可。 更喜欢用IRC？ 没关系，咱不是用 AVBOT 么！ 进入 \#avplayer @ irc.freenode.net 一样可以参与聊天。
 
 哦？不会 IRC ? 还好有了 AVBOT, 加入 XMPP 聊天室 avplayer@im.linuxapp.org 即可！
 
