@@ -1,21 +1,16 @@
-auto:   true
-server: true
-
+auto: true
 
 name: avplayer 社区
 url: http://avplayer.org
 description: 中国技术第一的开源社区
 
 permalink: date
-pygments: true
 markdown: kramdown
 
-
 github:
-   username: microcai
-   
+  username: microcai
+
 domain: avplayer.org
 
 source: .
 destination: ./_site
-plugins: ./_plugins

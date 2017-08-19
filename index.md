@@ -45,7 +45,7 @@ avplayer 是国内技术第一的开源社区。社区由志愿者运作，目�
 
 首先要会 C++。不会也没关系，进来一起学习 AV ,学习的过程中就会 C++了。使用 BOOST 神器加速。多少AV都不怕。来组织的人，都嗑 BOOST 上瘾了，相信你加入后也会被 BOOST 征服的。
 
-对于想要学好 C++的初学者, 这里是前辈的肺腑之言 [写给C++初学者的话](http://avboost.com/t/c/257) 
+对于想要学好 C++的初学者, 这里是前辈的肺腑之言 [写给C++初学者的话](http://avboost.com/t/c/257)
 
 
 ## 请先查看 <span class="hightlightnode" > [入群须知](/newbeefaq.html) </span>
@@ -56,7 +56,7 @@ avplayer 是国内技术第一的开源社区。社区由志愿者运作，目�
 
 哦？不会 IRC ? 还好有了 AVBOT, 加入 XMPP 聊天室 avplayer@im.linuxapp.org 即可！
 
-哦连IRC、XMPP也不会？ 我们还有一套方案: [在线Avplayer在线交流平台](https://avlog.avplayer.org/client.html)，它同样也是和前者所有的消息是相互接起来的。
+哦连IRC、XMPP也不会？ 我们还有一套方案: [在线Avplayer在线交流平台](https://avplayer.github.io/avbot_webclient/)，它同样也是和前者所有的消息是相互接起来的。
 
 # 如何申请提交权限
 
