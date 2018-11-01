@@ -81,7 +81,7 @@ avplayer　并不都是内部开发的项目，也有外部开发的项目捐赠
 
 ## 捐赠流程
 
-请在　https://github.com/avplayer/avplayer.github.com/issues　提交申请。打开一个新的　issuses, 然后将项目介绍和项目仓库地址附上。
+请在　[这里](https://github.com/avplayer/avplayer.github.com/issues)　提交申请。打开一个新的　issuses, 然后将项目介绍和项目仓库地址附上。
 请尽量提供详细点的信息。管理员审阅后，就会联系作者。
 
 
